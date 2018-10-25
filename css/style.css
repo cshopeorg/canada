@@ -9,11 +9,10 @@ Primary style
 }
 
 html {
-  font-size: 62.5%;
+
 }
 
 body {
-  font-size: 1.6em;
   font-family: 'Chivo', sans-serif;
   color: #424242;
   /*background-color: #e9f0f5;*/
@@ -241,7 +240,7 @@ Vertical Timeline - by CodyHouse.co
 .cd-timeline__content p,
 .cd-timeline__read-more,
 .cd-timeline__date {
-  font-size: 1.3rem;
+  font-size: 1.1em;
   padding: 1px 0px 0px;
 }
 
@@ -273,14 +272,14 @@ Vertical Timeline - by CodyHouse.co
 
 @media only screen and (min-width: 768px) {
   .cd-timeline__content h2 {
-    font-size: 2rem;
+    font-size: 1.2em;
   }
   .cd-timeline__content p {
-    font-size: 1.6rem;
+    font-size: 1em;
   }
   .cd-timeline__read-more,
   .cd-timeline__date {
-    font-size: 1.4rem;
+    font-size: 1.1em;
   }
 }
 
@@ -306,7 +305,7 @@ Vertical Timeline - by CodyHouse.co
     width: 100%;
     left: 122%;
     top: 1px;
-    font-size: 1.6rem;
+    font-size: 1.1em;
     padding: 1px 0px 0px;
   }
   /* start of making blocks on the right side of timeline */

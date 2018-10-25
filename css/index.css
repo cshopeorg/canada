@@ -90,7 +90,7 @@ main {
         opacity:0.80;
       }
     }
-  }
+
   
   @-moz-keyframes kodi-kaapan-animation{
     0% {
@@ -109,7 +109,7 @@ main {
         opacity:0.80;
       }
     }
-  }
+
   
   @-webkit-keyframes kodi-kaapan-animation {
     0% {
@@ -128,7 +128,7 @@ main {
         opacity:0.80;
       }
     }
-  }
+  
   
   @-o-keyframes kodi-kaapan-animation {
     0% {
@@ -147,7 +147,7 @@ main {
         opacity:0.80;
       }
     }
-  }
+  
   
   @-ms-keyframes kodi-kaapan-animation {
     0% {
@@ -166,5 +166,5 @@ main {
         opacity:0.80;
       }
     }
-  }
+  
 
